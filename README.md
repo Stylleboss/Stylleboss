@@ -1,127 +1,90 @@
 # 🚀 Only the Ceifa | Solo Career
 
-<p align="left">
-  <img src="https://shields.io" alt="Status Active">
-  <img src="https://shields.io" alt="Role">
-  <img src="https://shields.io" alt="Focus">
-</p>
-
-Full-Stack Developer e Game Developer atuando de forma totalmente independente. Especialista em desenvolvimento web de alta performance, engenharia reversa/modding para plataformas móveis, ecossistema SAMP e criação de jogos comerciais nativos.
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#1a1a1a">
+      <br>
+      <code><kbd><b><font color="#ff0000" size="5">FULL-STACK DEVELOPER & GAME DEVELOPER</font></b></kbd></code>
+      <br><br>
+      <font color="#ffffff" size="3">Desenvolvedor Solo focado em engenharia reversa, ecossistema SAMP, plataformas web de alta performance e jogos comerciais nativos.</font>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Core Tech Stack
 
+```html
+<!-- Linguagens principais em Preto, Branco e Vermelho -->
 <p align="left">
-  <!-- Languages -->
-  <img src="https://shields.io" alt="TypeScript">
+  <img src="https://shields.io" alt="TS">
   <img src="https://shields.io" alt="C++">
   <img src="https://shields.io" alt="C#">
   <img src="https://shields.io" alt="PAWN">
-  <br>
-  <!-- Web & DB -->
-  <img src="https://shields.io" alt="Node.js">
   <img src="https://shields.io" alt="MySQL">
-  <img src="https://shields.io" alt="HTML5">
-  <img src="https://shields.io" alt="CSS3">
 </p>
+```
 
 ---
 
-### 💻 Expertise & Domínio Técnico
+### 💻 Domínio Técnico & Expertise
 
-#### 🌐 Full-Stack Web Development
-* **Arquitetura Escalável:** Desenvolvimento de plataformas completas, APIs robustas em Node.js (TypeScript) e painéis de controle avançados (UCP) projetados para alta concorrência.
-* **Integração Real-Time:** Sincronização instantânea entre a interface web e bancos de dados de servidores ativos.
-
-#### 🎮 SAMP Core & Android Modding
-* **Mobile Modding:** Engenharia reversa e desenvolvimento de APKs de SAMP personalizados e otimizados para Android.
-* **Low-Level & Scripts:** Hooks de memória, manipulação do motor gráfico **RenderWare**, desenvolvimento de plugins nativos em C++ e arquitetura de sistemas complexos do zero em PAWN.
-
-#### 🕹️ Game Development (Steam & Play Store)
-* **Multiplataforma:** Criação, otimização e publicação de jogos comerciais independentes.
-* **Engines:** Domínio em **Unity (C#)** para projetos mobile/indie e **Unreal Engine (C++)** para alto desempenho gráfico em PC.
-
-#### 🗄️ Database & Infraestrutura
-* **High Traffic:** Modelagem, indexação e otimização de consultas em **MySQL** para aguentar milhares de requisições simultâneas sem gargalo.
-* **Ambiente Linux:** Deploy, gerenciamento de servidores VPS/Dedicados e implementação de regras de segurança estruturadas.
-
----
-
-### 📂 Portfólio de Projetos em Destaque
-
-#### 🎮 SAMP & Mobile Modding
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
-      <strong>🚀 APK SAMP Android Personalizado</strong><br>
-      APK customizado do zero com otimização gráfica para celulares fracos, suporte a novas skins, carros e interface totalmente redesenhada.<br>
-      <code>C++</code> <code>RenderWare</code> <code>Android NDK</code>
-    </td>
-    <td width="50%">
-      <strong>⚙️ Plugin C++ Nativo (SAMP Server)</strong><br>
-      Plugin de alta performance focado em segurança e processamento paralelo para servidores com alto fluxo de jogadores.<br>
-      <code>C++</code> <code>Linux .so</code> <code>Windows .dll</code>
+    <td bgcolor="#111111">
+      <font color="#ff0000"><b>🌐 FULL-STACK WEB DEVELOPMENT</b></font><br>
+      <font color="#ffffff">Desenvolvimento de plataformas completas, APIs robustas em Node.js (TypeScript) e painéis de controle avançados (UCP) integrados ao banco de dados em tempo real.</font>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <strong>📜 Gamemode PAWN do Zero</strong><br>
-      Sistema completo de RPG/RP otimizado, usando as melhores práticas de processamento (YSI, foreach) e salvamento assíncrono.<br>
-      <code>PAWN</code> <code>MySQL</code> <code>Otimização</code>
-    </td>
-    <td width="50%">
-      <strong>🛡️ Sistema Anti-DDoS & Firewall</strong><br>
-      Scripts de proteção automatizados para barrar ataques de pacotes comuns no cenário de servidores de GTA.<br>
-      <code>Linux Shell</code> <code>IPTables</code> <code>Security</code>
+    <td bgcolor="#1a1a1a">
+      <font color="#ff0000"><b>🎮 SAMP CORE & ANDROID MODDING</b></font><br>
+      <font color="#ffffff">Engenharia reversa e desenvolvimento de APKs de SAMP personalizados. Modificações em baixo nível, hooks de memória e manipulação da engine <b>RenderWare</b>.</font>
     </td>
   </tr>
-</table>
-
-#### 🕹️ Game Development (Steam & Play Store)
-<table>
   <tr>
-    <td width="50%">
-      <strong>👾 Projeto Comercial - Steam</strong><br>
-      Jogo independente desenvolvido e publicado na Steam. Foco em IA avançada, mecânicas polidas e renderização de alta fidelidade.<br>
-      <code>Unreal Engine</code> <code>C++</code> <code>SteamAPI</code>
-    </td>
-    <td width="50%">
-      <strong>📱 Jogo Mobile - Play Store</strong><br>
-      Jogo casual/arcade publicado na Google Play, integrado com sistemas de conquistas, salvamento em nuvem e anúncios otimizados.<br>
-      <code>Unity</code> <code>C#</code> <code>Google Play Services</code>
-    </td>
-  </tr>
-</table>
-
-#### 🌐 Full-Stack Web Applications
-<table>
-  <tr>
-    <td width="50%">
-      <strong>💻 Master UCP (User Control Panel)</strong><br>
-      Painel completo para jogadores de SAMP. Sistema de login, loja integrada com pix/cartão, recuperação de conta e logs do jogo em tempo real.<br>
-      <code>TypeScript</code> <code>Node.js</code> <code>MySQL</code>
-    </td>
-    <td width="50%">
-      <strong>📊 Dashboard de Administração (ACM)</strong><br>
-      Painel administrativo para donos de servidores gerenciarem banimentos, contas, logs de chat e monitorarem a VPS em tempo real.<br>
-      <code>TypeScript</code> <code>REST API</code> <code>Tailwind</code>
+    <td bgcolor="#111111">
+      <font color="#ff0000"><b>🕹️ GAME DEVELOPMENT</b></font><br>
+      <font color="#ffffff">Criação, otimização e publicação de jogos comerciais independentes para PC (<b>Steam</b>) e Mobile (<b>Play Store</b>) usando <b>Unity (C#)</b> e <b>Unreal Engine (C++)</b>.</font>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+### 📂 Portfólio de Projetos
 
-<p align="left">
-  <img src="https://vercel.app" alt="Github Stats" height="180">
-  <img src="https://vercel.app" alt="Top Languages" height="180">
-</p>
+<table width="100%">
+  <tr>
+    <th bgcolor="#ff0000" align="left" colspan="2"><font color="#ffffff">🕹️ PROJETOS EM DESTAQUE</font></th>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#111111">
+      <font color="#ff0000"><b>🔥 APK SAMP Android Custom</b></font><br>
+      <font color="#ffffff" size="2">APK modificado do zero com otimização gráfica avançada e novos recursos visuais.</font>
+    </td>
+    <td width="50%" bgcolor="#111111">
+      <font color="#ff0000"><b>⚡ C++ Native Plugins</b></font><br>
+      <font color="#ffffff" size="2">Plugins nativos para servidores focados em segurança extrema e alta performance.</font>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" bgcolor="#1a1a1a">
+      <font color="#ff0000"><b>💻 Web UCP & Dashboards</b></font><br>
+      <font color="#ffffff" size="2">Painéis de controle completos com sistemas de loja automáticos via PIX.</font>
+    </td>
+    <td width="50%" bgcolor="#1a1a1a">
+      <font color="#ff0000"><b>🚀 Commercial Games</b></font><br>
+      <font color="#ffffff" size="2">Jogos publicados na Steam e Play Store totalmente funcionais e monetizados.</font>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📩 Contact & Business Inquiries
-* **Discord:** `https://discord.gg/VS9eNEEE5C`
-* **Telegram:** `@Em-Breve`
+* **Discord:** `https://discord.com/users/1321939971770421299`
+* **Telegram:** `@Em-breve`
 * **Email:** `apenasceifa@gmail.com`
